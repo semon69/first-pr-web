@@ -4,3 +4,32 @@ img{
     border: 20px solid brown;
 
 }
+#we-help{
+    text-align: left;
+}
+div{
+    
+    background-color: burlywood;
+}
+#hosting{
+    text-align: center;
+}
+#fst-p{
+    text-align: center;
+}
+#code-e{
+    margin-left: 350px;
+    text-align: left;
+}
+#media{
+    text-align: right;
+    margin-right: 350px;
+}
+#ssl{
+    text-align: left;
+    margin-left: 350px;
+}
+#domain{
+    text-align: right;
+    margin-right: 350px;
+}
